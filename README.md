@@ -1,5 +1,5 @@
 # Food Truck Menu
-Creating a food truck menu concept.
+Creating an interactive food truck menu concept.
 
 ## Resources
 ChatGPT
